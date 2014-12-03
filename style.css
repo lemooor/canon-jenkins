@@ -17,6 +17,7 @@ body {
     background: url('logo-rackspace.png') no-repeat;
     margin-top: 8px;
     cursor: pointer;
+    display: none;
 }
 
 #jenkins-head-icon, #jenkins-name-icon, #right-top-nav {
@@ -80,6 +81,7 @@ body {
     padding-left: 15px;
     background: none repeat scroll 0 0 #FFFFFF !important;
     box-shadow: #c2c2c2 0 3px 8px 1px;
+    
 }
 
 /* Default styling for project table cells */
